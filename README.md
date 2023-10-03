@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bhalkar Nikhil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilbhalkar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilbhalkar" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently learning **Flutter and Firebase**
+
+- 💬 Ask me about **Flutter**
+
 <p align="left">
 </p>
 
